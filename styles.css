@@ -60,7 +60,7 @@ a:visited {
 }
 
 @media (max-width: 1460px) {
-   #main {
+  #main {
    margin: 0;
   }
 }
