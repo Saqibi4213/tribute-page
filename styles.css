@@ -1,7 +1,7 @@
- html {
+html {
   font-size: 10px;
 }
- body {
+body {
   font-family: Arial, sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -10,7 +10,7 @@
   margin: 0;
 }
 
- h1 {
+h1 {
   font-size: 4rem;
   margin-bottom: 0;
 }
@@ -101,5 +101,4 @@ blockquote {
   max-width: 545px;
   margin: 0 auto 50px auto;
   text-align: left;
-}
 
