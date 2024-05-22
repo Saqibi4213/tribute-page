@@ -1,12 +1,13 @@
 html {
   font-size: 10px;
 }
+
 body {
   font-family: Arial, sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
-  color: #695050;
+  color:#695050;
   margin: 0;
 }
 
