@@ -11,6 +11,13 @@ body {
   margin: 0;
 }
 
+.centered-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
 h1 {
   font-size: 4rem;
   margin-bottom: 0;
