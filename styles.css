@@ -61,7 +61,7 @@ a:visited {
 
 @media (max-width: 1460px) {
   #main {
-   margin: 0;
+    margin: 0;
   }
 }
 
@@ -83,9 +83,9 @@ img {
 }
 
 @media (max-width: 460px) {
-#img-caption {
-  font-size: 1.4rem;
-  }
+  #img-caption {
+    font-size: 1.4rem;
+   }
 }
 
 #tribute-info {
