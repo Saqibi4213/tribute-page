@@ -1,7 +1,7 @@
-html {
+ html {
   font-size: 10px;
 }
-body {
+ body {
   font-family: Arial, sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-h1 {
+ h1 {
   font-size: 4rem;
   margin-bottom: 0;
 }
@@ -70,7 +70,7 @@ img {
   }
 }
 
-#tribute-info{
+#tribute-info {
   margin: 50px 0;
   text-align: center;
 }
@@ -84,7 +84,6 @@ ul {
   display: flex;
   flex-direction: column;
   align-items: flext-start;
-
 }
 
 li {
@@ -95,7 +94,6 @@ li {
   position: relative;
   font-size: 1rem;
   padding-left: 5px;
-
 }
 
 blockquote {
@@ -104,3 +102,4 @@ blockquote {
   margin: 0 auto 50px auto;
   text-align: left;
 }
+
