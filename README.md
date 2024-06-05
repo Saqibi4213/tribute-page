@@ -24,7 +24,7 @@ Ensure you have the following software installed on your machine
 ```
 
 ```bash
-#
+#git@github.com:Saqibi4213/tribute-page.git
 ```
 
 ## Usage 🎯
